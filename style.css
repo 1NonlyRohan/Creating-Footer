@@ -1,0 +1,45 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+
+body {
+    background-color: darkgray;
+}
+
+.mid {
+    margin: 100px 300px 100px 300px;
+    background-color: rgb(63, 62, 62);
+    padding: 20px 10px 50px 10px;
+    border-radius: 10px;
+    box-shadow: 20px 10px 60px 60px #35c35b;
+}
+
+.mid table {
+    width: 100%;
+}
+
+table tr {
+    margin-left: -10px;
+}
+
+table th {
+    font-family: cinzel;
+    color: white;
+    font-size: 25px;
+    font-weight: 600;
+}
+
+table td {
+    font-family: cinzel;
+    font-size: 25px;
+    padding-left: 60px;
+    padding-top: 80px;
+    font-weight: 600;
+}
+
+table td a {
+    color: grey;
+    text-decoration: none;
+}
